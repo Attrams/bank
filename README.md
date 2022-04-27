@@ -1,21 +1,3 @@
 # Bank
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `bank` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:bank, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/bank>.
-
+This is an Elixir project which uses GenServers. This project was built by following [What is a GenServer in Elixir, and How Do I write One?](https://www.stridenyc.com/blog/what-is-a-genserver-in-elixir) blog post on [stridenyc](https://www.stridenyc.com/blog).
